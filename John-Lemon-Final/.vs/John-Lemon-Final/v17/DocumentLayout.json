@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{16EF4679-B3E1-DD36-52FB-237A500EC4BB}|Assembly-CSharp.csproj|c:\\users\\davfl\\johnlemonfinal\\john-lemon-final\\assets\\unitytechnologies\\scripts\\simpletimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EF4679-B3E1-DD36-52FB-237A500EC4BB}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\scripts\\simpletimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\.vsconfig||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vsconfig||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{16EF4679-B3E1-DD36-52FB-237A500EC4BB}|Assembly-CSharp.csproj|c:\\users\\davfl\\johnlemonfinal\\john-lemon-final\\assets\\unitytechnologies\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EF4679-B3E1-DD36-52FB-237A500EC4BB}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF4679-B3E1-DD36-52FB-237A500EC4BB}|Assembly-CSharp.csproj|c:\\users\\davfl\\johnlemonfinal\\john-lemon-final\\assets\\unitytechnologies\\scripts\\playermovememt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EF4679-B3E1-DD36-52FB-237A500EC4BB}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\scripts\\playermovememt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-23T07:35:29.872Z",
+              "DocumentIndex": 1,
+              "Title": "GameEnding.cs",
+              "DocumentMoniker": "C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\Assets\\UnityTechnologies\\Scripts\\GameEnding.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\Scripts\\GameEnding.cs",
+              "ToolTip": "C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\Assets\\UnityTechnologies\\Scripts\\GameEnding.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\Scripts\\GameEnding.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T07:44:12.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".vsconfig",
-              "DocumentMoniker": "C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\.vsconfig",
-              "RelativeDocumentMoniker": ".vsconfig",
-              "ToolTip": "C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\.vsconfig",
-              "RelativeToolTip": ".vsconfig",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-23T07:35:26.672Z",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovememt.cs",
+              "DocumentMoniker": "C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\Assets\\UnityTechnologies\\Scripts\\PlayerMovememt.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\Scripts\\PlayerMovememt.cs",
+              "ToolTip": "C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\Assets\\UnityTechnologies\\Scripts\\PlayerMovememt.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\Scripts\\PlayerMovememt.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEQAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T07:43:35.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleTimer.cs",
+              "DocumentMoniker": "C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\Assets\\UnityTechnologies\\Scripts\\SimpleTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\Scripts\\SimpleTimer.cs",
+              "ToolTip": "C:\\Users\\davfl\\JohnLemonFinal\\John-Lemon-Final\\Assets\\UnityTechnologies\\Scripts\\SimpleTimer.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\Scripts\\SimpleTimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T07:42:44.477Z",
               "EditorCaption": ""
             }
           ]
